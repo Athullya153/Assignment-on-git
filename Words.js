@@ -1,0 +1,1 @@
+console.log("But without words life is more peaceful");
